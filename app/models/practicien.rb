@@ -5,6 +5,4 @@ class Practicien < ApplicationRecord
 
   validates :consultation, presence: true
 
-  consultation = ["généraliste", "spécialiste", "autre"]
-
 end
