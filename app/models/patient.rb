@@ -5,5 +5,4 @@ class Patient < ApplicationRecord
 
   validates :nom, presence: true
   validates :prenom, presence: true
-
 end

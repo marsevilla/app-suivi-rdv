@@ -21,5 +21,4 @@ class RdvsController < ApplicationController
       render "rdvs/show", status: :unprocessable_entity
     end
   end
-
 end
