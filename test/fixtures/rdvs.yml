@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2024-11-05
+  time: 2024-11-05 11:55:43
+  notes: MyText
+  consultation: MyString
+  état: MyString
+
+two:
+  date: 2024-11-05
+  time: 2024-11-05 11:55:43
+  notes: MyText
+  consultation: MyString
+  état: MyString
